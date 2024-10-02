@@ -1,4 +1,7 @@
 ## taskify-db
+Letra A feita.
+Letra E feita.
+Letra H feita.
 Banco de dados em PostgreSQL hospedado em [aiven](https://aiven.io/)
 O banco de dados do Taskify contém três tabelas principais:
 
